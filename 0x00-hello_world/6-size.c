@@ -10,7 +10,7 @@ int main(void)
 	int a;
 	char b;
 	long int c;
-	long long d;
+	long long int d;
 	float e;
 
 	printf("Size of a char: %ln\n", (unsigned long)sizeof(b));
